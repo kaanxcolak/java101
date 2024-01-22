@@ -6,7 +6,6 @@ public class Taksimetre {
     public static void main(String[] args) {
         int km;
         double perKm = 2.20, total,startPrice=10;
-        int acilisUcret = 10;
 
         Scanner inp = new Scanner(System.in); //nesne ürettik
         System.out.print("Mesafeyi KM cinsinden giriniz: ");
